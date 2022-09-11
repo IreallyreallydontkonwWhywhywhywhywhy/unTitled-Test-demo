@@ -3,5 +3,4 @@ t:wq
 hellothird:wq
 yyyy
 q
-:wq
-jjjj
+:wqj
