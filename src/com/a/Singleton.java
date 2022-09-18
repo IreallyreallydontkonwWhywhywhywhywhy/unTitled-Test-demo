@@ -10,6 +10,7 @@ import sun.security.jca.GetInstance;
 
 public class Singleton {
     int i;
+    int k;
 
     //    饿汉
     private Singleton() {
