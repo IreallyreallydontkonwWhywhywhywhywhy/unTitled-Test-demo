@@ -13,6 +13,7 @@ public class Singleton {
     int kk;
     int k;
     int d;
+    int u;
 
     //    饿汉
     private Singleton() {
